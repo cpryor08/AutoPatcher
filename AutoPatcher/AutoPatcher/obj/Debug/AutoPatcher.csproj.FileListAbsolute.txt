@@ -1,0 +1,10 @@
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcher\bin\Debug\AutoPatcher.exe.config
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcher\bin\Debug\AutoPatcher.exe
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcher\bin\Debug\AutoPatcher.pdb
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcher\obj\Debug\AutoPatcher.exe
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcher\obj\Debug\AutoPatcher.pdb
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcher\obj\Debug\AutoPatcher.csprojResolveAssemblyReference.cache
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcher\bin\Debug\Designer.dll
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcher\bin\Debug\AutoPatcherLib.dll
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcher\bin\Debug\AutoPatcherLib.pdb
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcher\bin\Debug\Designer.pdb

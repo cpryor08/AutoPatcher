@@ -1,0 +1,7 @@
+C:\Users\TwelveK\Desktop\AutoPatcher\Designer\bin\Debug\Designer.dll
+C:\Users\TwelveK\Desktop\AutoPatcher\Designer\bin\Debug\Designer.pdb
+C:\Users\TwelveK\Desktop\AutoPatcher\Designer\obj\Debug\Designer.dll
+C:\Users\TwelveK\Desktop\AutoPatcher\Designer\obj\Debug\Designer.pdb
+C:\Users\TwelveK\Desktop\AutoPatcher\Designer\obj\Debug\Designer.Form1.resources
+C:\Users\TwelveK\Desktop\AutoPatcher\Designer\obj\Debug\Designer.csproj.GenerateResource.Cache
+C:\Users\TwelveK\Desktop\AutoPatcher\Designer\obj\Debug\Designer.csprojResolveAssemblyReference.cache

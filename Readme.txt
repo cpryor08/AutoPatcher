@@ -1,0 +1,1 @@
+Initially, edit the settings.ini, then on your web server create a folder called patches. For each new patch you get, in the patches folder, create a new folder with the new version, and place the files needed to patch in that folder.

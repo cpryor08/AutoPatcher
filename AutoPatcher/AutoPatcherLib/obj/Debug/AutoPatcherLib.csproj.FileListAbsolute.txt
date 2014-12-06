@@ -1,0 +1,5 @@
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcherLib\bin\Debug\AutoPatcherLib.dll
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcherLib\bin\Debug\AutoPatcherLib.pdb
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcherLib\obj\Debug\AutoPatcherLib.dll
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcherLib\obj\Debug\AutoPatcherLib.pdb
+C:\Users\TwelveK\Desktop\AutoPatcher\AutoPatcherLib\obj\Debug\AutoPatcherLib.csprojResolveAssemblyReference.cache
